@@ -12,7 +12,7 @@ end
 
 puts "Hello Human...."
 puts "Should we play a game?"
-puts "Lets see if if we can guess a number between 1 and 100 in 10 guesses?"
+puts "Lets see if we can guess a number between 1 and 100 in 10 guesses?"
 puts "Would you like to pick the number or guess it?"
 
 mode = ""
